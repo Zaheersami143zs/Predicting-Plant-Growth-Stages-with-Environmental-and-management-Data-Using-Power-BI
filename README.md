@@ -1,0 +1,1 @@
+# Predicting-Plant-Growth-Stages-with-Environmental-and-management-Data-Using-Power-BI
